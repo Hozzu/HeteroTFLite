@@ -1,0 +1,7 @@
+# Project requiremets
+Cython==3.0.10
+numpy>=1.17.4
+Shapely>=2.0.4
+
+# Packaging
+setuptools>=40.6.3
